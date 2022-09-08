@@ -7,7 +7,7 @@ In this project, we was intended to study and analyze a series of real dataset. 
 
 | Dataset name       | Description |
 | ----------- | ----------- |
-| Students’ performance     | This dataset includes the information about a
-sample of students studying in two different
-institutes as well as their grades in three different
-exams.       |
+| Students’ performance     | This dataset includes the information about a sample of students studying in two different institutes as well as their grades in three                                   different exams.       |
+
+
+
