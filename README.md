@@ -5,4 +5,4 @@ This repository contains my Statistical Inference Projects during University and
 ## List of Contents
 
 ### Data Analytics with R
-- [Studying and analyzing a series of real datasets with R programming language](https://github.com/zaha2020/Statistical_Inference/tree/main/Analyze_of_real_dataset_R)
+- [Analyzing a real dataset with R programming language](https://github.com/zaha2020/Statistical_Inference/tree/main/Analyze_of_real_dataset_R)
